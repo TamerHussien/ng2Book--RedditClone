@@ -1,3 +1,11 @@
+# Deployemnet
+
+this project is already deployed in the follow link
+
+https://dist-mwoqaxayci.now.sh/
+
+to deploy this project successfully i added '/' before any link inside index.html after the building 
+
 # AngularReddit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
